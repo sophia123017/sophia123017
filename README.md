@@ -1,16 +1,13 @@
-## Hi there 👋
+## Boas vindas ao meu perfil 🖤
 
-<!--
-**sophia123017/sophia123017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Sophia Laura 
 
-Here are some ideas to get you started:
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Tenho 17 anos e estou no último ano do ensino médio
+- Faço parte do itinerério informativo de Tecnologia e Robótica
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Você pode falar comigo através do 📧
+
+sophialauranogueira@gmail.com
+
+![](https://media1.tenor.com/m/Qqfgd_CFHAYAAAAC/nezuko-anime.gif)
